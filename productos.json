@@ -1,0 +1,142 @@
+[
+  {
+   "id": "1",
+   "title": "Brownies",
+   "price": 250,
+   "stock": 7,
+   "imgsrc": "https://i.imgur.com/GTF23lBl.jpg"
+  },
+  {
+   "id": "2",
+   "title": "Cheese Cake",
+   "price": 280,
+   "stock": 3,
+   "imgsrc": "https://i.imgur.com/nIp9Cg9l.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Pastafrola chica",
+    "price": 320,
+    "stock": 14,
+    "imgsrc": "https://i.imgur.com/JcgEdp6l.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Muffin de manzana",
+    "price": 350,
+    "stock": 12,
+    "imgsrc": "https://i.imgur.com/CYhq4Uql.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Tarta de frutilla",
+    "price": 720,
+    "stock": 3,
+    "imgsrc": "https://i.imgur.com/BeuVZ4Al.jpg"
+  },
+  {
+   "id": "6",
+   "title": "Selva Negra",
+   "price": 900,
+   "stock": 2,
+   "imgsrc": "https://i.imgur.com/a8q2kQFl.jpg"
+  },
+  {
+   "id": "7",
+   "title": "Medialunas (por docena)",
+   "price": 240,
+   "stock": 8,
+   "imgsrc": "https://i.imgur.com/cPxFf7ol.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Carrot Cake",
+    "price": 860,
+    "stock": 3,
+    "imgsrc": "https://i.imgur.com/hCNuOTql.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Torta de nueces",
+    "price": 330,
+    "stock": 12,
+    "imgsrc": "https://i.imgur.com/VwdITqtl.jpg"
+  },  
+  {
+    "id": "10",
+    "title": "Magdalenas (por docena)",
+    "price": 340,
+    "stock": 10,
+    "imgsrc": "https://i.imgur.com/CnCPjaFl.jpg"
+  }, 
+  {
+    "id": "11",
+    "title": "Cupcake Dulce de Leche",
+    "price": 260,
+    "stock": 8,
+    "imgsrc": "https://i.imgur.com/EKD9le1l.jpg"
+  },
+  {
+   "id": "12",
+   "title": "Roll de canela",
+   "price": 200,
+   "stock": 8,
+   "imgsrc": "https://i.imgur.com/b3S50nyl.jpg"
+  },
+  {
+   "id": "13",
+   "title": "Lemon Pie",
+   "price": 870,
+   "stock": 2,
+   "imgsrc": "https://i.imgur.com/czTNfNLl.jpg"
+  },
+  {
+   "id": "14",
+   "title": "Torta de tiramisú",
+   "price": 280,
+   "stock": 5,
+   "imgsrc": "https://i.imgur.com/XuTyzwzl.jpg"
+  },
+  {
+   "id": "15",
+   "title": "Torta de chocolate",
+   "price": 350,
+   "stock": 3,
+   "imgsrc": "https://i.imgur.com/Czre6Wjl.jpg"
+  },
+  {
+   "id": "16",
+   "title": "Donuts de chocolate",
+   "price": 180,
+   "stock": 12,
+   "imgsrc": "https://i.imgur.com/yE9tOzbl.jpg"
+  },
+  {
+   "id": "17",
+   "title": "Torre de chocolate",
+   "price": 240,
+   "stock": 7,
+   "imgsrc": "https://i.imgur.com/VuyV10tl.jpg"
+  },
+  {
+   "id": "18",
+   "title": "Crumble de manzana",
+   "price": 420,
+   "stock": 12,
+   "imgsrc": "https://i.imgur.com/PdAT7s9l.jpg"
+  },
+  {
+   "id": "19",
+   "title": "Mousse de frutilla",
+   "price": 240,
+   "stock": 9,
+   "imgsrc": "https://i.imgur.com/KhRAcbXl.jpg"
+  },
+  {
+    "id": "20",
+    "title": "Mousse de frutos rojos",
+    "price": 390,
+    "stock": 4,
+    "imgsrc": "https://i.imgur.com/2QXAMOtl.jpg"
+  }
+]
