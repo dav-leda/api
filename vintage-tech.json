@@ -1,0 +1,58 @@
+[
+  {
+   "id": "1",
+   "title": "Apple II",
+   "price": 25000,
+   "stock": 2,
+   "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/Apple_II.jpg"
+  },
+  {
+   "id": "2",
+   "title": "Apple Macintosh",
+   "price": 28000,
+   "stock": 3,
+   "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/apple_macintosh.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Commodore 64",
+    "price": 32000,
+    "stock": 1,
+    "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/commodore-64.png"
+  },
+  {
+    "id": "4",
+    "title": "Commodore 128",
+    "price": 350,
+    "stock": 2,
+    "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/commodore-128.jpg"
+  },
+  {
+    "id": "5",
+    "title": "IBM PC",
+    "price": 12000,
+    "stock": 3,
+    "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/ibm-pc.jpg"
+  },
+  {
+   "id": "6",
+   "title": "Dataset 2000",
+   "price": 19000,
+   "stock": 5,
+   "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/vintage-touchscreen.jpg"
+  },
+  {
+   "id": "7",
+   "title": "Xerox Alto",
+   "price": 93000,
+   "stock": 1,
+   "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/xerox-alto.jpg"
+  },
+  {
+    "id": "8",
+    "title": "ZX Spectrum",
+    "price": 8600,
+    "stock": 3,
+    "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/zx-spectrum.jpg"
+  }
+]
