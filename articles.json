@@ -1,158 +1,160 @@
-[
-  {
-    "source": {
-      "id": null,
-      "name": "9to5google.com"
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Waze disabled voice commands on Android Auto - 9to5Google",
+      "description": "Waze has unexpectedly disabled almost all voice commands on Android Auto, and it was an intentional change too.",
+      "url": "https://9to5google.com/2023/05/05/waze-voice-commands-android-auto/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/Waze-Dashboard-Android-Auto-stable-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-05-05T15:49:00Z",
+      "content": "The latest update for Waze on Android Auto finally brought support for “Coolwalk,” but it also broke a few key features, including voice commands. As it turns out, those were broken intentionally.\r\nL… [+1555 chars]"
     },
-    "author": "Ben Schoon",
-    "title": "Waze disabled voice commands on Android Auto - 9to5Google",
-    "description": "Waze has unexpectedly disabled almost all voice commands on Android Auto, and it was an intentional change too.",
-    "url": "https://9to5google.com/2023/05/05/waze-voice-commands-android-auto/",
-    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/Waze-Dashboard-Android-Auto-stable-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-05-05T15:49:00Z",
-    "content": "The latest update for Waze on Android Auto finally brought support for “Coolwalk,” but it also broke a few key features, including voice commands. As it turns out, those were broken intentionally.\r\nL… [+1555 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Gmail is putting ads in the middle of users’ inboxes - The Verge",
+      "description": "Gmail has started to place ads in the middle of users’ inboxes. While Google has long placed ads at the very top of inboxes, this seemingly new placement will make it even harder to distinguish between ads and actual emails.",
+      "url": "https://www.theverge.com/2023/5/5/23712440/gmail-ads-more-annoying-middle-inbox",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mhLZ2U9AVHPE8NwR8p_DQFXkcBs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954510/acastro_STK459_12.jpg",
+      "publishedAt": "2023-05-05T15:42:02Z",
+      "content": "Gmail ads are getting more annoying\r\nGmail ads are getting more annoying\r\n / Some users have started noticing ads in the middle of their inboxes.\r\nByEmma Roth\r\nMay 5, 2023, 3:42 PM UTC|Comments\r\nGmai… [+1549 chars]"
     },
-    "author": "Emma Roth",
-    "title": "Gmail is putting ads in the middle of users’ inboxes - The Verge",
-    "description": "Gmail has started to place ads in the middle of users’ inboxes. While Google has long placed ads at the very top of inboxes, this seemingly new placement will make it even harder to distinguish between ads and actual emails.",
-    "url": "https://www.theverge.com/2023/5/5/23712440/gmail-ads-more-annoying-middle-inbox",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/mhLZ2U9AVHPE8NwR8p_DQFXkcBs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954510/acastro_STK459_12.jpg",
-    "publishedAt": "2023-05-05T15:42:02Z",
-    "content": "Gmail ads are getting more annoying\r\nGmail ads are getting more annoying\r\n / Some users have started noticing ads in the middle of their inboxes.\r\nByEmma Roth\r\nMay 5, 2023, 3:42 PM UTC|Comments\r\nGmai… [+1549 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nintendo Life"
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Ryan Craddock",
+      "title": "Deals: Get A Discount On Zelda: Tears Of The Kingdom's Digital Edition - Nintendo Life",
+      "description": "A delectable digital deal",
+      "url": "https://www.nintendolife.com/news/2023/05/deals-get-a-discount-on-zelda-tears-of-the-kingdoms-digital-edition",
+      "urlToImage": "https://images.nintendolife.com/7c19977c6db1e/1280x720.jpg",
+      "publishedAt": "2023-05-05T15:00:00Z",
+      "content": "We're now just a week away from the launch of The Legend of Zelda: Tears of the Kingdom it releases exclusively on Nintendo Switch on 12th May and if you're wanting to buy the game digitally, we have… [+1755 chars]"
     },
-    "author": "Ryan Craddock",
-    "title": "Deals: Get A Discount On Zelda: Tears Of The Kingdom's Digital Edition - Nintendo Life",
-    "description": "A delectable digital deal",
-    "url": "https://www.nintendolife.com/news/2023/05/deals-get-a-discount-on-zelda-tears-of-the-kingdoms-digital-edition",
-    "urlToImage": "https://images.nintendolife.com/7c19977c6db1e/1280x720.jpg",
-    "publishedAt": "2023-05-05T15:00:00Z",
-    "content": "We're now just a week away from the launch of The Legend of Zelda: Tears of the Kingdom it releases exclusively on Nintendo Switch on 12th May and if you're wanting to buy the game digitally, we have… [+1755 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft Teams is getting animated backgrounds for your meetings - The Verge",
+      "description": "Microsoft is updating Teams with lots of new backgrounds. There are even ones that animate during meetings and others that cater to people on the autism spectrum.",
+      "url": "https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CTOXt41ns5JgtaD5T7cKbqtY6EM=/0x0:2134x1198/1200x628/filters:focal(1067x599:1068x600)/cdn.vox-cdn.com/uploads/chorus_asset/file/24632641/Teams_article_02_high.png",
+      "publishedAt": "2023-05-05T15:00:00Z",
+      "content": "Microsoft Teams is getting animated backgrounds for your meetings\r\nMicrosoft Teams is getting animated backgrounds for your meetings\r\n / Microsoft has six new categories of Teams backgrounds to cater… [+1731 chars]"
     },
-    "author": "Tom Warren",
-    "title": "Microsoft Teams is getting animated backgrounds for your meetings - The Verge",
-    "description": "Microsoft is updating Teams with lots of new backgrounds. There are even ones that animate during meetings and others that cater to people on the autism spectrum.",
-    "url": "https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/CTOXt41ns5JgtaD5T7cKbqtY6EM=/0x0:2134x1198/1200x628/filters:focal(1067x599:1068x600)/cdn.vox-cdn.com/uploads/chorus_asset/file/24632641/Teams_article_02_high.png",
-    "publishedAt": "2023-05-05T15:00:00Z",
-    "content": "Microsoft Teams is getting animated backgrounds for your meetings\r\nMicrosoft Teams is getting animated backgrounds for your meetings\r\n / Microsoft has six new categories of Teams backgrounds to cater… [+1731 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Gizmodo.com"
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Senior Google Engineer Claims Company's AI Lacks 'Secret Sauce' - Gizmodo",
+      "description": "The company has reportedly declared it would stop sharing its AI research, leaving the world further in the dark on AI developments.",
+      "url": "https://gizmodo.com/google-ai-chatbot-gpt-openai-bard-1850408123",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5fd442cac814a217925485164dea9c5f.jpg",
+      "publishedAt": "2023-05-05T14:40:00Z",
+      "content": "Google AI releases lack a spark, that certain je ne sais quoi that would give Google an edge in the hamster wheel rat race that is AI development, and even the engineers inside the company know it. A… [+4716 chars]"
     },
-    "author": "Kyle Barr",
-    "title": "Senior Google Engineer Claims Company's AI Lacks 'Secret Sauce' - Gizmodo",
-    "description": "The company has reportedly declared it would stop sharing its AI research, leaving the world further in the dark on AI developments.",
-    "url": "https://gizmodo.com/google-ai-chatbot-gpt-openai-bard-1850408123",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5fd442cac814a217925485164dea9c5f.jpg",
-    "publishedAt": "2023-05-05T14:40:00Z",
-    "content": "Google AI releases lack a spark, that certain je ne sais quoi that would give Google an edge in the hamster wheel rat race that is AI development, and even the engineers inside the company know it. A… [+4716 chars]"
-  },
-  {
-    "source": {
-      "id": "engadget",
-      "name": "Engadget"
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "'Fortnite' is now an Olympic esport | Engadget - Engadget",
+      "description": "'Fortnite' is now part of the Olympic Esports Series..",
+      "url": "https://www.engadget.com/fortnite-is-now-an-olympic-esport-143312772.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3a9oCjT4gJo2e_rJt1LPCg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/c08ca990-eb48-11ed-bbf7-26dc5c740b0b.cf.jpg",
+      "publishedAt": "2023-05-05T14:34:38Z",
+      "content": "Ever wish your Fortnite skills could lead to Olympic glory? They can now. The International Olympic Committee (IOC) has addedFortnite to the Olympic Esports Finals lineup. A dozen players from the Fo… [+1692 chars]"
     },
-    "author": null,
-    "title": "'Fortnite' is now an Olympic esport | Engadget - Engadget",
-    "description": "'Fortnite' is now part of the Olympic Esports Series..",
-    "url": "https://www.engadget.com/fortnite-is-now-an-olympic-esport-143312772.html",
-    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3a9oCjT4gJo2e_rJt1LPCg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/c08ca990-eb48-11ed-bbf7-26dc5c740b0b.cf.jpg",
-    "publishedAt": "2023-05-05T14:34:38Z",
-    "content": "Ever wish your Fortnite skills could lead to Olympic glory? They can now. The International Olympic Committee (IOC) has addedFortnite to the Olympic Esports Finals lineup. A dozen players from the Fo… [+1692 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "The iPhone 14 Pro is a demonstration of what our phones could do better - The Verge",
+      "description": "Apple’s iPhone 14 Pro is getting more useful with more third-party Live Activities support that puts more info in the Dynamic Island and on the always-on display. More of this, please.",
+      "url": "https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vgSaK_qIH3ZIODqBdGjyPe1UnfM=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24633571/DSC04602_processed.jpg",
+      "publishedAt": "2023-05-05T14:00:00Z",
+      "content": "The always-on display, Live Activities, and Dynamic Island tease a frictionless future where we spend less time in apps.\r\nByAllison Johnson\r\nMay 5, 2023, 2:00 PM UTC|Comments\r\nListening to a baseball… [+6956 chars]"
     },
-    "author": "Allison Johnson",
-    "title": "The iPhone 14 Pro is a demonstration of what our phones could do better - The Verge",
-    "description": "Apple’s iPhone 14 Pro is getting more useful with more third-party Live Activities support that puts more info in the Dynamic Island and on the always-on display. More of this, please.",
-    "url": "https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/vgSaK_qIH3ZIODqBdGjyPe1UnfM=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24633571/DSC04602_processed.jpg",
-    "publishedAt": "2023-05-05T14:00:00Z",
-    "content": "The always-on display, Live Activities, and Dynamic Island tease a frictionless future where we spend less time in apps.\r\nByAllison Johnson\r\nMay 5, 2023, 2:00 PM UTC|Comments\r\nListening to a baseball… [+6956 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DevClass"
+    {
+      "source": {
+        "id": null,
+        "name": "DevClass"
+      },
+      "author": "Tim Anderson",
+      "title": "Reduce costs by 90% by moving from microservices to monolith: Amazon internal case study raises eyebrows • DEVCLASS - DevClass",
+      "description": "An Amazon case study from the Prime Video team has caused some surprise and amusement in the developer community, thanks to its frank assessment of how to save money by moving from a microservices architecture to a monolith, and avoiding costly services such …",
+      "url": "https://devclass.com/2023/05/05/reduce-costs-by-90-by-moving-from-microservices-to-monolith-amazon-internal-case-study-raises-eyebrows/",
+      "urlToImage": "http://devclass.com/wp-content/uploads/2022/07/aws_shutterstock.jpg",
+      "publishedAt": "2023-05-05T13:22:23Z",
+      "content": "An Amazon case study from the Prime Video team has caused some surprise and amusement in the developer community, thanks to its frank assessment of how to save money by moving from a microservices ar… [+5257 chars]"
     },
-    "author": "Tim Anderson",
-    "title": "Reduce costs by 90% by moving from microservices to monolith: Amazon internal case study raises eyebrows • DEVCLASS - DevClass",
-    "description": "An Amazon case study from the Prime Video team has caused some surprise and amusement in the developer community, thanks to its frank assessment of how to save money by moving from a microservices architecture to a monolith, and avoiding costly services such …",
-    "url": "https://devclass.com/2023/05/05/reduce-costs-by-90-by-moving-from-microservices-to-monolith-amazon-internal-case-study-raises-eyebrows/",
-    "urlToImage": "http://devclass.com/wp-content/uploads/2022/07/aws_shutterstock.jpg",
-    "publishedAt": "2023-05-05T13:22:23Z",
-    "content": "An Amazon case study from the Prime Video team has caused some surprise and amusement in the developer community, thanks to its frank assessment of how to save money by moving from a microservices ar… [+5257 chars]"
-  },
-  {
-    "source": {
-      "id": "polygon",
-      "name": "Polygon"
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The Xbox 360 gamepad is back, and you can pre-order it now - Polygon",
+      "description": "Hyperkin’s Xenon, a modern recreation of Microsoft’s Xbox 360 controller in wired form, is available for pre-order. It costs $49.99, and will be coming in white, black, pink, and red colors.",
+      "url": "https://www.polygon.com/deals/23709637/xbox-360-controller-hyperkin-xenon-buy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-LWLd3oNvZC1NFkZj-ichIpcLT4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24632395/hyperkinxenon4.jpg",
+      "publishedAt": "2023-05-05T13:10:00Z",
+      "content": "Announced in late 2022, Hyperkins officially licensed revival of the Xbox 360 controller is now available for pre-order. The $49.99 Xenon, named after the Xbox 360s codename, will launch on June 6 in… [+698 chars]"
     },
-    "author": "Cameron Faulkner",
-    "title": "The Xbox 360 gamepad is back, and you can pre-order it now - Polygon",
-    "description": "Hyperkin’s Xenon, a modern recreation of Microsoft’s Xbox 360 controller in wired form, is available for pre-order. It costs $49.99, and will be coming in white, black, pink, and red colors.",
-    "url": "https://www.polygon.com/deals/23709637/xbox-360-controller-hyperkin-xenon-buy",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/-LWLd3oNvZC1NFkZj-ichIpcLT4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24632395/hyperkinxenon4.jpg",
-    "publishedAt": "2023-05-05T13:10:00Z",
-    "content": "Announced in late 2022, Hyperkins officially licensed revival of the Xbox 360 controller is now available for pre-order. The $49.99 Xenon, named after the Xbox 360s codename, will launch on June 6 in… [+698 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNET"
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "JBL Tour Pro 2 Earbuds Stand Out for Their Touchscreen Case - CNET",
+      "description": "In a world where there's not much difference between the top competing buds, the JBL Tour Pro 2 offer a distinguishing new feature: a control panel in the buds' case.",
+      "url": "https://www.cnet.com/tech/mobile/jbl-tour-pro-2-earbuds-stand-out-for-their-touchscreen-case/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9357df5e52e4adea84cd2748a87959b3bcdf078b/hub/2023/05/05/17a16a83-d4e2-44a3-86ca-3f2e5b647d93/jbl-tour-pro-2-screen.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-05-05T13:00:00Z",
+      "content": "When JBL first announced its Tour Pro 2 earbuds ($250, £220, AU$350) in January, they got a lot of attention for having something we hadn't seen in a set of earbuds before: a full color touchscreen d… [+9004 chars]"
     },
-    "author": null,
-    "title": "JBL Tour Pro 2 Earbuds Stand Out for Their Touchscreen Case - CNET",
-    "description": "In a world where there's not much difference between the top competing buds, the JBL Tour Pro 2 offer a distinguishing new feature: a control panel in the buds' case.",
-    "url": "https://www.cnet.com/tech/mobile/jbl-tour-pro-2-earbuds-stand-out-for-their-touchscreen-case/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/9357df5e52e4adea84cd2748a87959b3bcdf078b/hub/2023/05/05/17a16a83-d4e2-44a3-86ca-3f2e5b647d93/jbl-tour-pro-2-screen.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "publishedAt": "2023-05-05T13:00:00Z",
-    "content": "When JBL first announced its Tour Pro 2 earbuds ($250, £220, AU$350) in January, they got a lot of attention for having something we hadn't seen in a set of earbuds before: a full color touchscreen d… [+9004 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "The Google Home app is finally getting garage door controls - The Verge",
+      "description": "Controls for smart garage systems are starting to roll out on the public preview of the Google Home app, displaying a pill-shaped toggle to open and close doors.",
+      "url": "https://www.theverge.com/2023/5/5/23712284/google-home-app-preview-garage-door-controls-smart-home",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+      "publishedAt": "2023-05-05T12:41:04Z",
+      "content": "The Google Home app is finally getting garage door controls\r\nThe Google Home app is finally getting garage door controls\r\n / The feature is currently being tested, but at least we know its coming."
     },
-    "author": "Jess Weatherbed",
-    "title": "The Google Home app is finally getting garage door controls - The Verge",
-    "description": "Controls for smart garage systems are starting to roll out on the public preview of the Google Home app, displaying a pill-shaped toggle to open and close doors.",
-    "url": "https://www.theverge.com/2023/5/5/23712284/google-home-app-preview-garage-door-controls-smart-home",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
-    "publishedAt": "2023-05-05T12:41:04Z",
-    "content": "The Google Home app is finally getting garage door controls\r\nThe Google Home app is finally getting garage door controls\r\n / The feature is currently being tested, but at least we know its coming."
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Eurogamer.net"
-    },
-    "author": "Tom Phillips",
-    "title": "Xbox boss raises eyebrows with claim Microsoft expected Redfall reviews to be \"double digits\" higher - Eurogamer.net",
-    "description": "As the fallout from Redfall's release continues, Xbox boss Phil Spencer has raised eyebrows with his claim that Microso…",
-    "url": "https://www.eurogamer.net/xbox-boss-raises-eyebrows-with-claim-microsoft-expected-redfall-reviews-to-be-double-digits-higher",
-    "urlToImage": "https://assetsio.reedpopcdn.com/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "publishedAt": "2023-05-05T12:38:59Z",
-    "content": "As the fallout from Redfall's release continues, Xbox boss Phil Spencer has raised eyebrows with his claim that Microsoft expected the game to score much better in critics' reviews. \r\nDuring a wide-r… [+3303 chars]"
-  }
-]
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Xbox boss raises eyebrows with claim Microsoft expected Redfall reviews to be \"double digits\" higher - Eurogamer.net",
+      "description": "As the fallout from Redfall's release continues, Xbox boss Phil Spencer has raised eyebrows with his claim that Microso…",
+      "url": "https://www.eurogamer.net/xbox-boss-raises-eyebrows-with-claim-microsoft-expected-redfall-reviews-to-be-double-digits-higher",
+      "urlToImage": "https://assetsio.reedpopcdn.com/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-05-05T12:38:59Z",
+      "content": "As the fallout from Redfall's release continues, Xbox boss Phil Spencer has raised eyebrows with his claim that Microsoft expected the game to score much better in critics' reviews. \r\nDuring a wide-r… [+3303 chars]"
+    }
+  ]
+}
