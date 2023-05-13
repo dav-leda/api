@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "David",
+    "apellido": "Octocat",
+    "username": "user1",
+    "password": "vue1",
+    "admin": true,
+    "avatar": "https://dav-leda.github.io/images-bakery/avatar-mac.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Groucho",
+    "apellido": "Marx",
+    "username": "user2",
+    "password": "vue2",
+    "admin": false,
+    "avatar": "https://dav-leda.github.io/images-bakery/groucho.jpg"
+  }
+]
