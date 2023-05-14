@@ -3,8 +3,8 @@
     "id": "1",
     "nombre": "Linus",
     "apellido": "Octocat",
-    "username": "user1",
-    "password": "vue1",
+    "username": "linusoctocat",
+    "password": "linus8cat",
     "admin": true,
     "avatar": "https://dav-leda.github.io/images-bakery/avatar-mac.png"
   },
