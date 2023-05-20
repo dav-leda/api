@@ -5,6 +5,7 @@
       "title": "Brownies",
       "price": 250,
       "stock": 7,
+      "category": "Chocolate",
       "imgsrc": "https://dav-leda.github.io/images-bakery/brownies.jpg"
      },
      {
@@ -12,6 +13,7 @@
       "title": "Cheese Cake",
       "price": 280,
       "stock": 3,
+      "category": "Tortas",
       "imgsrc": "https://dav-leda.github.io/images-bakery/cheese-cake-frutos-rojos.jpg"
      },
      {
@@ -19,6 +21,7 @@
        "title": "Pastafrola chica",
        "price": 320,
        "stock": 14,
+       "category": "Pastelería",
        "imgsrc": "https://dav-leda.github.io/images-bakery/pastafrola.jpg"
      },
      {
@@ -26,6 +29,7 @@
        "title": "Muffin de manzana",
        "price": 350,
        "stock": 12,
+       "category": "Muffins",
        "imgsrc": "https://dav-leda.github.io/images-bakery/muffin-manzana.jpg"
      }
   ],
@@ -35,6 +39,7 @@
       "title": "Tarta de frutilla",
       "price": 720,
       "stock": 3,
+      "category": "Tartas",
       "imgsrc": "https://dav-leda.github.io/images-bakery/tarta-frutillas.jpg"
     },
     {
@@ -42,6 +47,7 @@
      "title": "Selva Negra",
      "price": 900,
      "stock": 2,
+     "category": "Tortas",
      "imgsrc": "https://dav-leda.github.io/images-bakery/selva-negra.jpg"
     },
     {
@@ -49,6 +55,7 @@
      "title": "Medialunas (por docena)",
      "price": 240,
      "stock": 8,
+     "category": "Panadería",
      "imgsrc": "https://dav-leda.github.io/images-bakery/medialunas.jpg"
     },
     {
@@ -56,6 +63,7 @@
       "title": "Carrot Cake",
       "price": 860,
       "stock": 3,
+      "category": "Tortas",
       "imgsrc": "https://dav-leda.github.io/images-bakery/carrot-cake.jpg"
     }
   ],
@@ -65,6 +73,7 @@
       "title": "Torta de nueces",
       "price": 330,
       "stock": 12,
+      "category": "Tortas",
       "imgsrc": "https://dav-leda.github.io/images-bakery/torta-nueces.jpg"
     },  
     {
@@ -72,6 +81,7 @@
       "title": "Magdalenas (por docena)",
       "price": 340,
       "stock": 10,
+      "category": "Panadería",
       "imgsrc": "https://dav-leda.github.io/images-bakery/magdalenas.jpg"
     }, 
     {
@@ -79,6 +89,7 @@
       "title": "Cupcake Dulce de Leche",
       "price": 260,
       "stock": 8,
+      "category": "Cupcakes",
       "imgsrc": "https://dav-leda.github.io/images-bakery/cupcake-dulce-leche.jpg"
     },
     {
@@ -86,6 +97,7 @@
      "title": "Roll de canela",
      "price": 200,
      "stock": 8,
+     "category": "Rolls",
      "imgsrc": "https://dav-leda.github.io/images-bakery/roll-canela.jpg"
     }
   ]
