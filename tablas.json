@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "id": "1",
+      "title": "Brownies",
+      "price": 250,
+      "stock": 7,
+      "imgsrc": "https://dav-leda.github.io/images-bakery/brownies.jpg"
+     },
+     {
+      "id": "2",
+      "title": "Cheese Cake",
+      "price": 280,
+      "stock": 3,
+      "imgsrc": "https://dav-leda.github.io/images-bakery/cheese-cake-frutos-rojos.jpg"
+     },
+     {
+       "id": "3",
+       "title": "Pastafrola chica",
+       "price": 320,
+       "stock": 14,
+       "imgsrc": "https://dav-leda.github.io/images-bakery/pastafrola.jpg"
+     },
+     {
+       "id": "4",
+       "title": "Muffin de manzana",
+       "price": 350,
+       "stock": 12,
+       "imgsrc": "https://dav-leda.github.io/images-bakery/muffin-manzana.jpg"
+     }
+  ],
+  [
+    
+  ],
+  [
+
+  ]
+]

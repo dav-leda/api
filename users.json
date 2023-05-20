@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "nombre": "Linus",
     "apellido": "Octocat",
     "username": "linusoctocat",
@@ -9,7 +9,7 @@
     "avatar": "https://dav-leda.github.io/images-bakery/avatar-mac.png"
   },
   {
-    "id": "2",
+    "id": 2,
     "nombre": "Groucho",
     "apellido": "Marx",
     "username": "user2",
