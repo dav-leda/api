@@ -6,7 +6,7 @@
     "username": "linusoctocat",
     "password": "linus8cat",
     "admin": true,
-    "avatar": "https://dav-leda.github.io/images-bakery/avatar-mac.png"
+    "avatar": "https://dav-leda.github.io/api/images/avatar-mac.png"
   },
   {
     "id": 2,
@@ -15,6 +15,15 @@
     "username": "user2",
     "password": "vue2",
     "admin": false,
-    "avatar": "https://dav-leda.github.io/images-bakery/groucho.jpg"
+    "avatar": "https://dav-leda.github.io/api/images/groucho.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "David",
+    "apellido": "Leda",
+    "username": "david",
+    "password": "david123",
+    "admin": true,
+    "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg"
   }
 ]
