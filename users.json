@@ -14,7 +14,7 @@
     "firstname": "Groucho",
     "lastname": "Marx",
     "username": "user2",
-    "password": "vue2",
+    "password": "user123",
     "email": "groucho@marx.com",
     "avatar": "https://dav-leda.github.io/api/images/groucho.jpg",
     "admin": false
@@ -24,7 +24,7 @@
     "firstname": "David",
     "lastname": "Leda",
     "username": "david",
-    "password": "david123",
+    "password": "dede32",
     "email": "david@email.com",
     "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
     "admin": true
