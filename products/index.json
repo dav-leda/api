@@ -1,0 +1,142 @@
+[
+  {
+   "id": 1,
+   "title": "Brownies",
+   "price": 250,
+   "stock": 7,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/brownies.jpg"
+  },
+  {
+   "id": 2,
+   "title": "Cheese Cake",
+   "price": 280,
+   "stock": 3,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/cheese-cake-frutos-rojos.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pastafrola chica",
+    "price": 320,
+    "stock": 14,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/pastafrola.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Muffin de manzana",
+    "price": 350,
+    "stock": 12,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/muffin-manzana.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Tarta de frutilla",
+    "price": 720,
+    "stock": 3,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/tarta-frutillas.jpg"
+  },
+  {
+   "id": 6,
+   "title": "Selva Negra",
+   "price": 900,
+   "stock": 2,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/selva-negra.jpg"
+  },
+  {
+   "id": 7,
+   "title": "Medialunas (por docena)",
+   "price": 240,
+   "stock": 8,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/medialunas.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Carrot Cake",
+    "price": 860,
+    "stock": 3,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/carrot-cake.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Torta de nueces",
+    "price": 330,
+    "stock": 12,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/torta-nueces.jpg"
+  },  
+  {
+    "id": 10,
+    "title": "Magdalenas (por docena)",
+    "price": 340,
+    "stock": 10,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/magdalenas.jpg"
+  }, 
+  {
+    "id": 11,
+    "title": "Cupcake Dulce de Leche",
+    "price": 260,
+    "stock": 8,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/cupcake-dulce-leche.jpg"
+  },
+  {
+   "id": 12,
+   "title": "Roll de canela",
+   "price": 200,
+   "stock": 8,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/roll-canela.jpg"
+  },
+  {
+   "id": 13,
+   "title": "Lemon Pie",
+   "price": 870,
+   "stock": 2,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/lemon-pie-2.jpg"
+  },
+  {
+   "id": 14,
+   "title": "Torta de tiramisú",
+   "price": 280,
+   "stock": 5,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/torta-choco-tiramisu.jpg"
+  },
+  {
+   "id": 15,
+   "title": "Torta de chocolate",
+   "price": 350,
+   "stock": 3,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/torta-choco.jpg"
+  },
+  {
+   "id": 16,
+   "title": "Donuts de chocolate",
+   "price": 180,
+   "stock": 12,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/donuts-choco.jpg"
+  },
+  {
+   "id": 17,
+   "title": "Torre de chocolate",
+   "price": 240,
+   "stock": 7,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/torre-chocolate.jpg"
+  },
+  {
+   "id": 18,
+   "title": "Crumble de manzana",
+   "price": 420,
+   "stock": 12,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/apple-pie.jpg"
+  },
+  {
+   "id": 19,
+   "title": "Mousse de frutilla",
+   "price": 240,
+   "stock": 9,
+   "imgsrc": "https://dav-leda.github.io/images-bakery/mousse-frutilla.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Mousse de frutos rojos",
+    "price": 390,
+    "stock": 4,
+    "imgsrc": "https://dav-leda.github.io/images-bakery/cupcake-frutilla.jpg"
+  }
+]
