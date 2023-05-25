@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "title": "Apple II",
-  "price": 25000,
-  "stock": 2,
-  "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/Apple_II.jpg"
- }
+  "id": 7,
+  "title": "Xerox Alto",
+  "price": 93000,
+  "stock": 1,
+  "imgsrc": "https://dav-leda.github.io/images-vintage-pcs/xerox-alto.jpg"
+}
