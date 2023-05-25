@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "firstname": "David",
+  "lastname": "Leda",
+  "username": "david",
+  "password": "dede32",
+  "email": "david@email.com",
+  "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
+  "admin": true
+}

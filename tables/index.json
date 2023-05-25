@@ -5,7 +5,7 @@
       "title": "Brownies",
       "price": 250,
       "stock": 7,
-      "category": "Chocolate",
+      "category": "Pastelería",
       "imgsrc": "https://dav-leda.github.io/images-bakery/brownies.jpg"
      },
      {
@@ -97,7 +97,7 @@
      "title": "Roll de canela",
      "price": 200,
      "stock": 8,
-     "category": "Rolls",
+     "category": "Pastelería",
      "imgsrc": "https://dav-leda.github.io/images-bakery/roll-canela.jpg"
     }
   ]

@@ -1,6 +1,16 @@
 [
   {
     "id": 1,
+    "firstname": "David",
+    "lastname": "Leda",
+    "username": "david",
+    "password": "dede32",
+    "email": "david@email.com",
+    "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
+    "admin": true
+  },
+  {
+    "id": 2,
     "firstname": "Linus",
     "lastname": "Octocat",
     "username": "linusoctocat",
@@ -10,7 +20,7 @@
     "admin": false
   },
   {
-    "id": 2,
+    "id": 3,
     "firstname": "Groucho",
     "lastname": "Marx",
     "username": "user2",
@@ -18,15 +28,5 @@
     "email": "groucho@marx.com",
     "avatar": "https://dav-leda.github.io/api/images/groucho.jpg",
     "admin": false
-  },
-  {
-    "id": 3,
-    "firstname": "David",
-    "lastname": "Leda",
-    "username": "david",
-    "password": "dede32",
-    "email": "david@email.com",
-    "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
-    "admin": true
   }
 ]
