@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "curso": "Vue.js"
+  },
+  {
+    "id": 2,
+    "curso": "Svelte"
+  },
+  {
+    "id": 3,
+    "curso": "React.js"
+  },
+  {
+    "id": 4,
+    "curso": "Angular"
+  }
+]
