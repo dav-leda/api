@@ -3,7 +3,7 @@
   "firstname": "Linus",
   "lastname": "Octocat",
   "username": "user1",
-  "password": "$2b$08$o30V2C6jOukjwRvhaS6CAORUJ4W78eSfzrpr3d6Zng4KvKc88qrfi",
+  "password": "$2a$08$MPiAC0nJkYA6yO1AFSE5Ye2r79OWS4Lv7ZLA6Kh/avTSHlYogjyXi",
   "email": "user@email.com",
   "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
   "admin": true
