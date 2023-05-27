@@ -2,22 +2,22 @@
   {
     "id": 1,
     "firstname": "David",
-    "lastname": "Leda",
+    "lastname": "Lederov",
     "username": "david",
     "password": "dede32",
     "email": "david@email.com",
-    "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
+    "avatar": "https://dav-leda.github.io/api/images/avatar-mac.png",
     "admin": true
   },
   {
     "id": 2,
     "firstname": "Linus",
     "lastname": "Octocat",
-    "username": "linusoctocat",
-    "password": "linus8cat",
+    "username": "user1",
+    "password": "$2b$08$o30V2C6jOukjwRvhaS6CAORUJ4W78eSfzrpr3d6Zng4KvKc88qrfi",
     "email": "linus@octocat.com",
-    "avatar": "https://dav-leda.github.io/api/images/avatar-mac.png",
-    "admin": false
+    "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
+    "admin": true
   },
   {
     "id": 3,
