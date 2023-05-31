@@ -5,7 +5,7 @@
     "lastname": "Octocat",
     "username": "linusoctocat",
     "password": "linus8cat",
-    "email": "linus@octocat.com",
+    "email": "xxx@oxxx.xxx",
     "avatar": "https://dav-leda.github.io/api/images/avatar-mac.png",
     "admin": false
   },
@@ -15,7 +15,7 @@
     "lastname": "Marx",
     "username": "user2",
     "password": "user123",
-    "email": "groucho@marx.com",
+    "email": "xxx@oxxx.xxx",
     "avatar": "https://dav-leda.github.io/api/images/groucho.jpg",
     "admin": false
   },
@@ -25,7 +25,7 @@
     "lastname": "Leda",
     "username": "david",
     "password": "dede32",
-    "email": "david@email.com",
+    "email": "xxx@xxx.xxx",
     "avatar": "https://dav-leda.github.io/api/images/d-barbijo.jpg",
     "admin": true
   }
