@@ -2,7 +2,7 @@
   {
    "id": 1,
    "priority": 1,
-   "title": "Brownies",
+   "name": "Brownies",
    "price": 250,
    "stock": 7,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -11,7 +11,7 @@
   {
    "id": 2,
    "priority": 2,
-   "title": "Cheese Cake",
+   "name": "Cheese Cake",
    "price": 280,
    "stock": 3,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "priority": 3,
-    "title": "Pastafrola chica",
+    "name": "Pastafrola chica",
     "price": 320,
     "stock": 14,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "priority": 4,
-    "title": "Muffin de manzana",
+    "name": "Muffin de manzana",
     "price": 350,
     "stock": 12,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "priority": 5,
-    "title": "Tarta de frutilla",
+    "name": "Tarta de frutilla",
     "price": 720,
     "stock": 6,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -47,7 +47,7 @@
   {
    "id": 6,
    "priority": 6,
-   "title": "Selva Negra",
+   "name": "Selva Negra",
    "price": 900,
    "stock": 2,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -56,7 +56,7 @@
   {
    "id": 7,
    "priority": 7,
-   "title": "Medialunas (por docena)",
+   "name": "Medialunas (por docena)",
    "price": 240,
    "stock": 8,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "priority": 8,
-    "title": "Carrot Cake",
+    "name": "Carrot Cake",
     "price": 860,
     "stock": 7,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "priority": 9,
-    "title": "Torta de nueces",
+    "name": "Torta de nueces",
     "price": 330,
     "stock": 12,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "priority": 10,
-    "title": "Magdalenas (por docena)",
+    "name": "Magdalenas (por docena)",
     "price": 340,
     "stock": 10,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "priority": 11,
-    "title": "Cupcake Dulce de Leche",
+    "name": "Cupcake Dulce de Leche",
     "price": 260,
     "stock": 5,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -101,7 +101,7 @@
   {
    "id": 12,
    "priority": 12,
-   "title": "Roll de canela",
+   "name": "Roll de canela",
    "price": 200,
    "stock": 14,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -110,7 +110,7 @@
   {
    "id": 13,
    "priority": 13,
-   "title": "Lemon Pie",
+   "name": "Lemon Pie",
    "price": 870,
    "stock": 9,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -119,7 +119,7 @@
   {
    "id": 14,
    "priority": 14,
-   "title": "Torta de tiramisú",
+   "name": "Torta de tiramisú",
    "price": 280,
    "stock": 4,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -128,7 +128,7 @@
   {
    "id": 15,
    "priority": 15,
-   "title": "Torta de chocolate",
+   "name": "Torta de chocolate",
    "price": 350,
    "stock": 6,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -137,7 +137,7 @@
   {
    "id": 16,
    "priority": 16,
-   "title": "Donuts de chocolate",
+   "name": "Donuts de chocolate",
    "price": 180,
    "stock": 12,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -146,7 +146,7 @@
   {
    "id": 17,
    "priority": 17,
-   "title": "Torre de chocolate",
+   "name": "Torre de chocolate",
    "price": 240,
    "stock": 7,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -155,7 +155,7 @@
   {
    "id": 18,
    "priority": 18,
-   "title": "Crumble de manzana",
+   "name": "Crumble de manzana",
    "price": 420,
    "stock": 12,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -164,7 +164,7 @@
   {
    "id": 19,
    "priority": 19,
-   "title": "Mousse de frutilla",
+   "name": "Mousse de frutilla",
    "price": 240,
    "stock": 11,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "priority": 20,
-    "title": "Mousse de frutos rojos",
+    "name": "Mousse de frutos rojos",
     "price": 390,
     "stock": 13,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
