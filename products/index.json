@@ -4,7 +4,7 @@
    "priority": 1,
    "name": "Brownies",
    "price": 250,
-   "stock": 7,
+   "stock": 17,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
    "imgsrc": "https://dav-leda.github.io/images-bakery/brownies.jpg"
   },
@@ -13,7 +13,7 @@
    "priority": 2,
    "name": "Cheese Cake",
    "price": 280,
-   "stock": 3,
+   "stock": 12,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
    "imgsrc": "https://dav-leda.github.io/images-bakery/cheese-cake-frutos-rojos.jpg"
   },
@@ -22,7 +22,7 @@
     "priority": 3,
     "name": "Pastafrola chica",
     "price": 320,
-    "stock": 14,
+    "stock": 28,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
     "imgsrc": "https://dav-leda.github.io/images-bakery/pastafrola.jpg"
   },
@@ -58,7 +58,7 @@
    "priority": 7,
    "name": "Medialunas (por docena)",
    "price": 240,
-   "stock": 8,
+   "stock": 18,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
    "imgsrc": "https://dav-leda.github.io/images-bakery/medialunas.jpg"
   },
@@ -67,7 +67,7 @@
     "priority": 8,
     "name": "Carrot Cake",
     "price": 860,
-    "stock": 7,
+    "stock": 17,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
     "imgsrc": "https://dav-leda.github.io/images-bakery/carrot-cake.jpg"
   },
@@ -94,7 +94,7 @@
     "priority": 11,
     "name": "Cupcake Dulce de Leche",
     "price": 260,
-    "stock": 5,
+    "stock": 15,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
     "imgsrc": "https://dav-leda.github.io/images-bakery/cupcake-dulce-leche.jpg"
   },
@@ -103,7 +103,7 @@
    "priority": 12,
    "name": "Roll de canela",
    "price": 200,
-   "stock": 14,
+   "stock": 24,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
    "imgsrc": "https://dav-leda.github.io/images-bakery/roll-canela.jpg"
   },
@@ -148,7 +148,7 @@
    "priority": 17,
    "name": "Torre de chocolate",
    "price": 240,
-   "stock": 7,
+   "stock": 17,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
    "imgsrc": "https://dav-leda.github.io/images-bakery/torre-chocolate.jpg"
   },
@@ -164,19 +164,19 @@
   {
    "id": "19",
    "priority": 19,
-   "name": "Mousse de frutilla",
+   "name": "Croissant",
    "price": 240,
-   "stock": 11,
+   "stock": 32,
    "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
-   "imgsrc": "https://dav-leda.github.io/images-bakery/mousse-frutilla.jpg"
+   "imgsrc": "https://dav-leda.github.io/images-bakery/croissant.jpg"
   },
   {
     "id": "20",
     "priority": 20,
-    "name": "Mousse de frutos rojos",
+    "name": "Muffin con passa de uva",
     "price": 390,
-    "stock": 13,
+    "stock": 23,
     "description": "Producto elaborado con ingredientes 100% orgánicos. Reducido en calorías. Libre de TACC. Apto para celíacos. Apto para veganos. No contiene ingredientes de origen animal.",
-    "imgsrc": "https://dav-leda.github.io/images-bakery/cupcake-frutilla.jpg"
+    "imgsrc": "https://dav-leda.github.io/images-bakery/muffin-pasas.jpg"
   }
 ]
